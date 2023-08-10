@@ -18,4 +18,3 @@ print(noun,"and",  noun2,",","the weather in ", place,"\n") # it will print all 
 print("you may think that is this the", noun3)
 print("well it is.")
 print("-------------------------------------------------------------------")
-
